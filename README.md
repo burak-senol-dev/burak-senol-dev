@@ -32,30 +32,14 @@ Düzce Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Mühen
 
 ### 📌 Öne Çıkan Projeler / Featured Engineering Projects
 
-#### 1. 🕵️‍♂️ [Gizem Masası — İnteraktif Dedektiflik & Mantık Oyunu](https://gizem-masasi-dedektif.vercel.app/)
-* **Teknolojiler:** React, Forensic Mantık Akışı, Dinamik Durum Yönetimi, AI-Assisted UI/UX
-* **Canlı Demo:** [gizem-masasi-dedektif.vercel.app](https://gizem-masasi-dedektif.vercel.app/)
-* Çelişkili tanık ifadeleri, zaman damgalı ses kayıtları ve delil panosu mekanikleriyle kurgulanmış, prompt mühendisliği ve hızlı prototipleme ile hayata geçirilmiş interaktif dedektiflik simülasyonu.
-
-#### 2. 📦 [Bilsoft Stok Sayım Modülü](https://github.com/burak-senol-dev/Bilsoft-Stok-Sayim-Modulu)
-* **Teknolojiler:** C#, WinForms, MySQL, Transaction Isolation
-* Bilsoft mimarisine uygun; rol bazlı yetkilendirme (RBAC), ACID uyumlu transaction koruması ve barkod/stok entegrasyonu sağlayan kurumsal masaüstü modülü.
-
-#### 3. ⚡ [Forecast2action — Yenilenebilir Enerji Üretim Tahmini (Hackathon 3.lük)](https://github.com/burak-senol-dev/Forecast2action)
-* **Teknolojiler:** Python, LightGBM, SQL Server, Feature Engineering
-* "Sürdürülebilir Enerji ile Geleceği Kodla" Hackathonu'nda 3.lük ödülü alan, rüzgar/güneş enerji üretim verilerini analiz ederek şebeke optimizasyonu sağlayan makine öğrenmesi modeli.
-
-#### 4. 🛒 [Market Stok Takip Sistemi](https://github.com/burak-senol-dev/Market-Stok-Takip-Sistemi)
-* **Teknolojiler:** Python, SQL Server, T-SQL Triggers, pyodbc
-* Veritabanı seviyesinde çalışan T-SQL tetikleyicileri (triggers) ile kritik stok seviyelerini otomatik denetleyen ve loglayan veritabanı yönetim mimarisi.
-
-#### 5. 🌐 [Ticari Web Platformları & Case Studies](https://github.com/burak-senol-dev/erhanhaliyikama.com.tr)
-* **Projeler:** [erhanhaliyikama.com.tr](https://github.com/burak-senol-dev/erhanhaliyikama.com.tr) & [apoks.com](https://github.com/burak-senol-dev/apoks.com)
-* Yerel SEO, Schema.org yapısal veri modelleri, mobil dönüşüm optimizasyonu ve sub-second Core Web Vitals mimarisi üzerine teknik vaka analizleri (Engineering Case Studies).
-
-#### 6. 🎮 2D Pizza Slicing Game (AI-Assisted Unity & C#)
-* **Teknolojiler:** Unity 2D, C#, 2D Physics Engine, Mesh Slicing
-* Gerçek zamanlı 2D dilimleme mekaniği, çarpışma algılama (Collider/Rigidbody) ve dinamik skorlama algoritmaları içeren oyun geliştirme projesi.
+| Proje | Teknoloji & Mimari | Detay / Bağlantı |
+| :--- | :--- | :--- |
+| 🕵️‍♂️ **Gizem Masası** | React, Forensic Logic, AI UI/UX | [Canlı Demo (Vercel)](https://gizem-masasi-dedektif.vercel.app/) • [GitHub Reposu](https://github.com/burak-senol-dev/Gizem-Masasi) |
+| 📦 **Bilsoft Stok Sayım Modülü** | C# WinForms, MySQL, ACID | [GitHub Reposu](https://github.com/burak-senol-dev/Bilsoft-Stok-Sayim-Modulu) |
+| ⚡ **Forecast2action (Hackathon 3.lük)** | Python, LightGBM, SQL Server | [GitHub Reposu](https://github.com/burak-senol-dev/Forecast2action) |
+| 🛒 **Market Stok Takip Sistemi** | Python, SQL Server, T-SQL Triggers | [GitHub Reposu](https://github.com/burak-senol-dev/Market-Stok-Takip-Sistemi) |
+| 🎮 **2D Pizza Slicing Game** | Unity 2D, C#, Physics Engine | [GitHub Reposu](https://github.com/burak-senol-dev/2D-Pizza-Slicing-Game) |
+| 🌐 **Ticari Web Çözümleri** | Responsive Architecture, Local SEO | [erhanhaliyikama.com.tr](https://github.com/burak-senol-dev/erhanhaliyikama.com.tr) & [apoks.com](https://github.com/burak-senol-dev/apoks.com) |
 
 ---
 
