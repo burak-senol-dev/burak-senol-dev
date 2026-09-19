@@ -45,19 +45,6 @@ Senior **Computer Engineering student at Düzce University** (GPA: 3.05 / 4.00, 
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/burak-senol-dev/burak-senol-dev/main/assets/stats.svg" alt="Burak's GitHub Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/burak-senol-dev/burak-senol-dev/main/assets/langs.svg" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/burak-senol-dev/burak-senol-dev/main/assets/streak.svg" alt="GitHub Streak" width="99%" />
-</p>
-
----
-
 ### 🌟 Featured Engineering Projects
 
 #### 1. ⚡ [Forecast2Action](https://github.com/burak-senol-dev/Forecast2action) — Sustainable Energy ML Forecasting Engine
@@ -84,6 +71,14 @@ Senior **Computer Engineering student at Düzce University** (GPA: 3.05 / 4.00, 
 > AI-assisted interactive forensic detective & evidence analysis simulation  
 - **Stack:** `React` `JavaScript` `Component-Driven Architecture` `Procedural Narrative Logic`
 - Interactive forensic evidence linking board, timeline reconstruction, and conditional deduction state machines.
+
+---
+
+### 🏆 Engineering Honors & Milestones
+
+- 🚀 **TÜBİTAK RUTE TEKNOFEST Hyperloop Finals:** Top 12 Finalist nationally across 455 competing engineering teams.
+- 🥉 **Sustainable Energy Hackathon 2026:** 3rd Place nationwide for predictive energy time-series analytics.
+- 📜 **Full Open Source Compliance:** All public repositories verified under standard MIT Open Source Licenses.
 
 ---
 
